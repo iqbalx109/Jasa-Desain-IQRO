@@ -10,9 +10,9 @@ Tugas Akhir Basic Bootcamp Komandro 2026 — Git & GitHub.
 
 | Nama | Username GitHub | Bagian di index.html | Branch |
 |---|---|---|---|
-| [IQBAL] | [@iqbalx109] | Beranda | eat/beranda |
-| [ROFI] | [@rofimedia123] | Profil | eat/profil |
-| [ROFI] | [@rofimedia123] | Kontak | eat/kontak |
+| [IQBAL] | [@iqbalx109] | Beranda | feat/beranda |
+| [ROFI] | [@rofimedia123] | Profil | feat/profil |
+| [ROFI] | [@rofimedia123] | Kontak | feat/kontak |
 
 > Sesuaikan tabel di atas dengan jumlah anggota kelompokmu — hapus baris yang tidak dipakai. Kelompok 2 orang: anggota kedua mengisi Profil + Kontak (satu branch eat/profil-kontak, atau dua branch terpisah — bebas, asal lewat PR).
 
